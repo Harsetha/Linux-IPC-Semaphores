@@ -126,7 +126,7 @@ $ ./semaphore.o
 ![Screenshot 2024-04-22 104254](https://github.com/Harsetha/Linux-IPC-Semaphores/assets/149985878/4c320730-5a68-4e13-87de-3fed96e8b81e)
 
 
-
+```
 $ ipcs
 ```
 
